@@ -9,10 +9,9 @@
 	- since there is not enough memory to train the model with the entire data set, I try to train 
 		the model with a subset of the data. However, the accuracy score is pretty low, 
 		below is the table of the accuracy score with training size = number lines in the csv file
+		
 		| training size  |  tf-idf |countVectorizer |  
 		|----------------|---------|----------------|
-		|          3000  |         |                | 		
-		|          4000  |         |                | 
 		|          5000  |   0.38  |     0.371      |
 		|          6000  |   0.329 |     0.328      |
 		|          7000  |   0.365 |     0.3859     |
