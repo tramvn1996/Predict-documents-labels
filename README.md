@@ -19,11 +19,14 @@
 
 	- I figure at this point, increasing the size of the training will not increase the accuracy, so 
 		I suspect it has to do with the training data itself, so I did some exploratory checks:
+		
 		-- it seems like my training data is pretty skewed, for example, some cateogories would
 			 have more than 4000 observations, but some only has 1. 
+			 
 		-- the categories are also not uniformed, some categories are more detailed than the other,
 			for example, one article is classfied as Arts & Entertainment/Fun & Trivia/Flash-Based 
 			Entertainment, while some is simply "Reference"
+			
 3. Summary of tools:
 	- Exploratory analysis: spark
 		-- sample code to create a list of trained data from Google API
