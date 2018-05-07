@@ -1,11 +1,11 @@
 # Big Data Final Project
 
 1. I will use Google Natural Language API to classify text on the AI news data that Dr. Eckroth 
-	provided us for the CREU project. 
+	provided us for the CREU project. ---->  BDfinal.py
 	- running time for this step was approximately 5 hours for the entire dataset of AI news
 	
 2. After classifying those news articles, I use that data for training and testing sets
-	to attempt to train a bag-of-words model for future classification
+	to attempt to train a bag-of-words model for future classification -----> spark_train.py
 	- since there is not enough memory to train the model with the entire data set, I try to train 
 		the model with a subset of the data. However, the accuracy score is pretty low, 
 		below is the table of the accuracy score with training size = number lines in the csv file
@@ -27,11 +27,22 @@
 			for example, one article is classfied as Arts & Entertainment/Fun & Trivia/Flash-Based 
 			Entertainment, while some is simply "Reference"
 			
+4. Classifying step -----> save_and_load_model.py
+	- suppose we want to classify the content of the text.txt 
+	
+	- run this command: python save_and_load_model.py text.txt
+			
 3. Summary of tools:
 	- Exploratory analysis: spark
+	
 		-- sample code to create a list of trained data from Google API
+		
 		-- sample code to train my own model from the trained data
+		
 		-- retrieve summary of trained data
+		
 	- Distributed workers: spark -- pipe articles to the python code
+	
 	- numeric/string processing: spark + google API + sklearn 
+	
 	- machine learning: sklearn in spark
