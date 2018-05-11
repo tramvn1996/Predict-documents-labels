@@ -48,6 +48,8 @@
 	- machine learning: sklearn in spark
 
 4. Current work:
+	
 	- Separate out the hiearrchy of categories and get the largest counts
+	
 	- narrow counts to top 5 of the categories
 
