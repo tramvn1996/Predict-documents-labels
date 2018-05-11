@@ -33,3 +33,8 @@
 	- Distributed workers: spark -- pipe articles to the python code
 	- numeric/string processing: spark + google API + sklearn 
 	- machine learning: sklearn in spark
+
+4. Current work:
+	- Separate out the hiearrchy of categories and get the largest counts
+	- narrow counts to top 5 of the categories
+

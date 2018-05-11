@@ -63,3 +63,4 @@ df = m2.toDF(['CDID','Date','Displ','Genre','Industry','Cateogory'])
 df.toPandas().to_csv("trainingset.csv")
 df.agg(*(countDistinct(col(c)).alias(c) for c in df.columns)).show()
 
+

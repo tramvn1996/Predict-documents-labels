@@ -1,0 +1,586 @@
+,Category,count
+0,/Computers & Electronics/Electronics & Electrical,67
+1,/Arts & Entertainment/Fun & Trivia/Flash-Based Entertainment,2
+2,/Business & Industrial/Metals & Mining/Precious Metals,4
+3,"""/Finance/Grants",39
+4,/Computers & Electronics/Consumer Electronics,4676
+5,/Jobs & Education/Education/Distance Learning,4
+6,/Business & Industrial/Agriculture & Forestry/Forestry,30
+7,/Pets & Animals/Wildlife,693
+8,/Arts & Entertainment/Music & Audio/Jazz & Blues,32
+9,/Food & Drink/Food/Meat & Seafood,55
+10,/Sports/Combat Sports,18
+11,/Shopping/Entertainment Media/Entertainment Media Rentals,2
+12,/Health/Pharmacy,13
+13,/Arts & Entertainment/Offbeat,17
+14,/Food & Drink/Food/Candy & Sweets,25
+15,/Arts & Entertainment/Music & Audio/Soundtracks,11
+16,/Sports/Water Sports/Surfing,18
+17,/Finance/Credit & Lending,58
+18,/Health/Health Conditions/Allergies,12
+19,/Games/Card Games,7
+20,/Jobs & Education/Education/Standardized & Admissions Tests,31
+21,/Science/Mathematics/Statistics,8
+22,/Home & Garden/Domestic Services,3
+23,/Reference/General Reference/Calculators & Reference Tools,3
+24,/Beauty & Fitness/Beauty Pageants,13
+25,/Autos & Vehicles/Vehicle Parts & Services/Gas Prices & Vehicle Fueling,16
+26,/Health/Vision Care,71
+27,/Internet & Telecom/Web Services,355
+28,/Shopping/Gifts & Special Event Items/Flowers,5
+29,/People & Society/Social Issues & Advocacy/Discrimination & Identity Relations,92
+30,/Arts & Entertainment/Events & Listings,65
+31,/Science/Physics,347
+32,/Sports/Individual Sports/Track & Field,114
+33,/Games/Puzzles & Brainteasers,14
+34,/Arts & Entertainment/Performing Arts/Magic,6
+35,/Pets & Animals/Pets/Birds,19
+36,/Beauty & Fitness/Face & Body Care/Perfumes & Fragrances,10
+37,/Travel/Cruises & Charters,34
+38,/Business & Industrial/Construction & Maintenance/Building Materials & Supplies,47
+39,/Business & Industrial/Hospitality Industry/Event Planning,1
+40,/Business & Industrial/Energy & Utilities/Electricity,30
+41,/Arts & Entertainment/Events & Listings/Film Festivals,8
+42,/Home & Garden/Home Safety & Security,22
+43,/Sports/Winter Sports/Skiing & Snowboarding,8
+44,/Science/Ecology & Environment,279
+45,/Books & Literature/E-Books,12
+46,/Shopping/Auctions,18
+47,/Online Communities/Dating & Personals/Matrimonial Services,2
+48,/Computers & Electronics/Software/Multimedia Software,89
+49,/Online Communities/Blogging Resources & Services,62
+50,/Health/Health Conditions/Diabetes,28
+51,/Reference/General Reference/Dictionaries & Encyclopedias,10
+52,/Home & Garden/Home Improvement/House Painting & Finishing,1
+53,/Law & Government/Public Safety/Law Enforcement,975
+54,/Sports/Team Sports/Volleyball,11
+55,/Food & Drink/Beverages/Alcoholic Beverages,191
+56,/Arts & Entertainment/Visual Art & Design/Architecture,125
+57,/Food & Drink/Beverages/Juice,2
+58,/Science/Earth Sciences,993
+59,/Arts & Entertainment/Performing Arts/Dance,111
+60,/Business & Industrial/Transportation & Logistics/Mail & Package Delivery,23
+61,/Internet & Telecom/Mobile & Wireless/Mobile Apps & Add-Ons,562
+62,/Law & Government/Government/Courts & Judiciary,164
+63,/Home & Garden/Bed & Bath,5
+64,/Shopping/Toys,360
+65,/Home & Garden/Gardening & Landscaping,50
+66,/Science,1780
+67,/Arts & Entertainment/Performing Arts,317
+68,/Games/Gambling,97
+69,/Arts & Entertainment/Performing Arts/Opera,26
+70,/Arts & Entertainment/Celebrities & Entertainment News,1891
+71,/Health/Men's Health,11
+72,/Autos & Vehicles/Vehicle Codes & Driving Laws,121
+73,/Computers & Electronics/Consumer Electronics/Camera & Photo Equipment,254
+74,/Online Communities,301
+75,/Arts & Entertainment/Music & Audio/Urban & Hip-Hop,365
+76,/People & Society/Subcultures & Niche Interests,91
+77,/Travel/Tourist Destinations/Zoos-Aquariums-Preserves,50
+78,/Sports/Team Sports/Rugby,154
+79,/Books & Literature/Children's Literature,51
+80,/Shopping/Apparel/Formal Wear,2
+81,/Home & Garden/Laundry,3
+82,/Internet & Telecom,831
+83,/Computers & Electronics/Computer Hardware/Computer Components,223
+84,/Arts & Entertainment/Music & Audio/Music Education & Instruction,5
+85,/Shopping/Gifts & Special Event Items/Gifts,4
+86,/Finance/Credit & Lending/Loans,102
+87,/Travel/Tourist Destinations/Beaches & Islands,17
+88,/Games/Board Games/Miniatures & Wargaming,1
+89,/People & Society/Social Issues & Advocacy,1489
+90,/Arts & Entertainment/Music & Audio/Radio,98
+91,/Health/Health Conditions/Skin Conditions,14
+92,/Business & Industrial/Agriculture & Forestry,255
+93,/Finance/Accounting & Auditing/Tax Preparation & Planning,76
+94,/Computers & Electronics/Electronics & Electrical/Electronic Components,14
+95,/Home & Garden/Bed & Bath/Bathroom,1
+96,/Home & Garden/Home Improvement/Construction & Power Tools,3
+97,/Sports/Individual Sports/Golf,273
+98,/Health/Aging & Geriatrics,69
+99,/Business & Industrial/Business Services/Corporate Events,20
+100,/Health/Health Conditions/Genetic Disorders,36
+101,/Business & Industrial/Textiles & Nonwovens,5
+102,/Arts & Entertainment/TV & Video/TV Shows & Programs,2803
+103,/Health/Health Education & Medical Training,12
+104,/Computers & Electronics/Computer Hardware,728
+105,/Pets & Animals/Animal Products & Services/Veterinarians,18
+106,/Health/Vision Care/Eyeglasses & Contacts,15
+107,/Business & Industrial/Chemicals Industry/Plastics & Polymers,4
+108,/Business & Industrial/Business Services/E-Commerce Services,135
+109,/Health/Health Conditions/Endocrine Conditions,27
+110,/Shopping/Apparel/Children's Clothing,2
+111,/Hobbies & Leisure,2298
+112,/Arts & Entertainment/Entertainment Industry/Recording Industry,119
+113,/Health/Medical Facilities & Services/Hospitals & Treatment Centers,52
+114,/Games/Computer & Video Games/Casual Games,28
+115,/Finance/Financial Planning & Management,23
+116,/Shopping/Entertainment Media,7
+117,/Computers & Electronics/Software/Internet Software,112
+118,/Food & Drink/Beverages,51
+119,/Business & Industrial/Transportation & Logistics/Freight & Trucking,18
+120,/Pets & Animals/Pets/Cats,54
+121,/Arts & Entertainment/Humor,747
+122,/People & Society/Social Issues & Advocacy/Poverty & Hunger,37
+123,/People & Society/Seniors & Retirement,8
+124,/Health/Reproductive Health,324
+125,/Health/Nutrition/Vitamins & Supplements,26
+126,/Internet & Telecom/Communications Equipment,2
+127,"""/Home & Garden/Home Swimming Pools",2
+128,/People & Society/Family & Relationships/Marriage,63
+129,/Computers & Electronics/Networking,156
+130,/Computers & Electronics/Programming,177
+131,/Health/Health Foundations & Medical Research,101
+132,/Sports/Water Sports/Swimming,35
+133,/Health/Medical Facilities & Services,154
+134,/Law & Government/Public Safety/Emergency Services,152
+135,/Jobs & Education/Jobs/Career Resources & Planning,12
+136,/Health/Substance Abuse/Drug & Alcohol Testing,1
+137,/Travel/Car Rental & Taxi Services,146
+138,/Internet & Telecom/Service Providers,740
+139,/Law & Government/Social Services,77
+140,/Computers & Electronics/Enterprise Technology/Data Management,91
+141,/Sports/International Sports Competitions/Olympics,70
+142,/Pets & Animals,292
+143,/Reference/Humanities/Philosophy,22
+144,/Real Estate/Real Estate Listings/Timeshares & Vacation Properties,1
+145,/Hobbies & Leisure/Special Occasions/Holidays & Seasonal Events,88
+146,/Business & Industrial/Business Services/Office Supplies,81
+147,/Food & Drink/Food/Baked Goods,16
+148,/Shopping/Gifts & Special Event Items,7
+149,/Arts & Entertainment/Music & Audio/CD & Audio Shopping,2
+150,/Health/Public Health/Occupational Health & Safety,1
+151,/Pets & Animals/Pets,74
+152,/Online Communities/Dating & Personals,29
+153,/Computers & Electronics/Consumer Electronics/Audio Equipment,175
+154,/Internet & Telecom/Email & Messaging/Text & Instant Messaging,40
+155,/People & Society/Social Issues & Advocacy/Work & Labor Issues,163
+156,/Autos & Vehicles/Vehicle Parts & Services/Vehicle Parts & Accessories,28
+157,/Pets & Animals/Pets/Horses,13
+158,/Computers & Electronics/Computer Security,888
+159,/Arts & Entertainment/Entertainment Industry/Film & TV Industry,106
+160,/Arts & Entertainment/Music & Audio/Pop Music,305
+161,/Sports/Sporting Goods/Sports Memorabilia,1
+162,/Arts & Entertainment/Music & Audio/Experimental & Industrial Music,2
+163,/Sports/Team Sports,372
+164,/Science/Engineering & Technology,2392
+165,/Arts & Entertainment/Music & Audio/Classical Music,85
+166,/Sports/International Sports Competitions,96
+167,/Science/Biological Sciences/Neuroscience,144
+168,/Food & Drink/Cooking & Recipes/BBQ & Grilling,6
+169,/Law & Government/Legal/Bankruptcy,5
+170,/Health/Women's Health,159
+171,/Finance/Insurance/Health Insurance,118
+172,/Sports,453
+173,/Business & Industrial/Small Business/MLM & Business Opportunities,9
+174,/Computers & Electronics/Software/Business & Productivity Software,263
+175,/Computers & Electronics/Computer Hardware/Computer Peripherals,89
+176,/Real Estate/Real Estate Listings/Residential Sales,39
+177,/Pets & Animals/Pets/Exotic Pets,1
+178,/Health/Health Conditions/Arthritis,1
+179,/Business & Industrial/Energy & Utilities,402
+180,/Home & Garden/Yard & Patio,5
+181,/Games/Table Games/Billiards,10
+182,/Business & Industrial/Transportation & Logistics/Parking,2
+183,/People & Society/Family & Relationships/Family,286
+184,/Sports/Team Sports/Hockey,114
+185,/Games/Computer & Video Games/Sandbox Games,32
+186,/Arts & Entertainment/Comics & Animation/Comics,284
+187,/Sports/Team Sports/Cricket,401
+188,/Reference/Humanities/Myth & Folklore,18
+189,/Sports/Combat Sports/Boxing,247
+190,/Games/Board Games/Chess & Abstract Strategy Games,11
+191,/Beauty & Fitness/Face & Body Care,38
+192,/Home & Garden/Kitchen & Dining/Cookware & Diningware,8
+193,/Home & Garden/Home Furnishings/Living Room Furniture,1
+194,/Law & Government/Military,1057
+195,/Online Communities/File Sharing & Hosting,43
+196,/Food & Drink,261
+197,/Law & Government/Government/Visa & Immigration,162
+198,/People & Society/Family & Relationships,155
+199,/Arts & Entertainment/Visual Art & Design/Design,25
+200,/Shopping/Apparel/Women's Clothing,8
+201,/Business & Industrial/Business Education,2
+202,/Sports/Winter Sports,4
+203,/Beauty & Fitness/Spas & Beauty Services/Massage Therapy,2
+204,/Reference/Humanities/History,305
+205,/Science/Biological Sciences,1500
+206,/Health/Substance Abuse/Drug & Alcohol Treatment,4
+207,/Food & Drink/Restaurants,167
+208,/Computers & Electronics/Computer Hardware/Laptops & Notebooks,211
+209,/Finance/Insurance,45
+210,/Beauty & Fitness/Fitness,174
+211,/People & Society/Social Issues & Advocacy/Human Rights & Liberties,19
+212,/Jobs & Education/Jobs/Resumes & Portfolios,1
+213,/Sports/Sporting Goods,71
+214,/Computers & Electronics/Consumer Electronics/Drones & RC Aircraft,215
+215,/Jobs & Education/Jobs,104
+216,/Shopping/Luxury Goods,7
+217,/People & Society/Social Sciences/Economics,103
+218,/Health/Mental Health,127
+219,/Travel,634
+220,/Home & Garden/Home Improvement,58
+221,/Shopping/Apparel/Men's Clothing,3
+222,/Business & Industrial/Manufacturing,9
+223,/Sports/College Sports,398
+224,/Beauty & Fitness/Face & Body Care/Make-Up & Cosmetics,22
+225,/Real Estate/Real Estate Listings/Residential Rentals,7
+226,/Business & Industrial/Business Services/Consulting,6
+227,/Home & Garden/Laundry/Washers & Dryers,1
+228,/Business & Industrial/Transportation & Logistics/Moving & Relocation,2
+229,/Science/Earth Sciences/Atmospheric Science,290
+230,/Games/Gambling/Lottery,9
+231,/Autos & Vehicles/Boats & Watercraft,15
+232,/Shopping/Apparel/Clothing Accessories,722
+233,/Health,992
+234,/Computers & Electronics/Consumer Electronics/Car Electronics,9
+235,/Reference/Humanities,70
+236,/Health/Health Conditions/Infectious Diseases,564
+237,/Autos & Vehicles/Vehicle Parts & Services,48
+238,/Books & Literature/Poetry,37
+239,/Pets & Animals/Pets/Fish & Aquaria,13
+240,/Home & Garden/Home Furnishings,16
+241,/Arts & Entertainment/Music & Audio/Music Videos,4
+242,/Food & Drink/Cooking & Recipes/Desserts,25
+243,/Reference/Libraries & Museums,41
+244,/News/Business News/Financial Markets News,314
+245,/Finance/Investing/Stocks & Bonds,91
+246,/Jobs & Education/Education/Teaching & Classroom Resources,22
+247,/Home & Garden/Home Improvement/Doors & Windows,4
+248,/Internet & Telecom/Mobile & Wireless/Mobile Phones,2241
+249,/Autos & Vehicles/Bicycles & Accessories,36
+250,/Home & Garden/Home Furnishings/Lamps & Lighting,36
+251,/Reference/General Reference/Public Records,3
+252,/Science/Engineering & Technology/Robotics,438
+253,/Business & Industrial/Hospitality Industry/Food Service,91
+254,/Online Communities/Photo & Video Sharing,20
+255,/Beauty & Fitness/Body Art,21
+256,/Health/Health Conditions/Eating Disorders,10
+257,/Autos & Vehicles/Vehicle Parts & Services/Vehicle Repair & Maintenance,4
+258,/Business & Industrial/Automotive Industry,63
+259,/Reference/Libraries & Museums/Museums,94
+260,/Home & Garden/Home Appliances,74
+261,/Home & Garden/Kitchen & Dining/Major Kitchen Appliances,8
+262,/Hobbies & Leisure/Radio Control & Modeling/Model Trains & Railroads,2
+263,/Sports/Team Sports/Australian Football,2
+264,/People & Society,2191
+265,/Arts & Entertainment/Music & Audio/Music Streams & Downloads,69
+266,/Jobs & Education/Education/Colleges & Universities,403
+267,/Home & Garden/Pest Control,41
+268,/Shopping/Apparel/Undergarments,7
+269,/Science/Earth Sciences/Geology,299
+270,/Health/Health Conditions/Neurological Conditions,226
+271,/People & Society/Religion & Belief,1003
+272,/Business & Industrial/Aerospace & Defense/Space Technology,1306
+273,/Science/Computer Science,307
+274,/Arts & Entertainment/Offbeat/Occult & Paranormal,59
+275,/Health/Health Conditions/Sleep Disorders,35
+276,/Shopping/Tobacco Products,27
+277,/Shopping/Toys/Stuffed Toys,3
+278,/Games/Online Games/Massively Multiplayer Games,46
+279,/Arts & Entertainment/Performing Arts/Acting & Theater,90
+280,/Business & Industrial/Metals & Mining,25
+281,/Health/Health Conditions/Heart & Hypertension,50
+282,/Beauty & Fitness/Cosmetology & Beauty Professionals,1
+283,/Jobs & Education/Education,581
+284,/Finance/Financial Planning & Management/Retirement & Pension,74
+285,/Health/Nursing/Assisted Living & Long Term Care,24
+286,/Hobbies & Leisure/Radio Control & Modeling,254
+287,/Sports/Individual Sports/Racquet Sports,514
+288,/Health/Substance Abuse/Smoking & Smoking Cessation,53
+289,/Sports/Winter Sports/Ice Skating,2
+290,/Arts & Entertainment/Visual Art & Design/Photographic & Digital Arts,503
+291,/Health/Health Conditions/Cancer,241
+292,/Shopping/Apparel/Athletic Apparel,17
+293,/Sports/Combat Sports/Martial Arts,65
+294,/Books & Literature/Fan Fiction,4
+295,/Computers & Electronics/Software/Device Drivers,5
+296,/Travel/Hotels & Accommodations,70
+297,/Sports/Team Sports/Cheerleading,4
+298,/Law & Government,1985
+299,/Games/Computer & Video Games/Shooter Games,188
+300,/Arts & Entertainment/TV & Video/Online Video,381
+301,/Internet & Telecom/Communications Equipment/Radio Equipment,1
+302,/Finance/Banking,179
+303,/Health/Nursing,24
+304,/Computers & Electronics/Networking/VPN & Remote Access,22
+305,/Finance/Credit & Lending/Credit Cards,49
+306,/Jobs & Education/Education/Vocational & Continuing Education,2
+307,/Travel/Air Travel,487
+308,/Science/Ecology & Environment/Climate Change & Global Warming,187
+309,/Food & Drink/Beverages/Soft Drinks,9
+310,/Law & Government/Public Safety/Security Products & Services,64
+311,/Business & Industrial/Construction & Maintenance,87
+312,/Internet & Telecom/Mobile & Wireless,987
+313,/Arts & Entertainment/Online Media,592
+314,/Games/Computer & Video Games,1691
+315,/Shopping/Apparel/Footwear,35
+316,/Real Estate/Real Estate Listings,51
+317,/Shopping/Apparel/Casual Apparel,11
+318,/Shopping/Mass Merchants & Department Stores,30
+319,/Business & Industrial/Retail Trade/Retail Equipment & Technology,6
+320,/Beauty & Fitness/Hair Care/Hair Loss,4
+321,/Shopping/Classifieds,2
+322,/Sensitive Subjects,11094
+323,/Sports/Individual Sports/Gymnastics,5
+324,/Arts & Entertainment/Visual Art & Design,323
+325,/Home & Garden/Domestic Services/Cleaning Services,5
+326,/Reference/General Reference/Biographies & Quotations,33
+327,/Travel/Bus & Rail,111
+328,/Sports/Sports Coaching & Training,4
+329,/Computers & Electronics/Software/Operating Systems,1189
+330,/Online Communities/Social Networks,298
+331,/Business & Industrial,6676
+332,/Internet & Telecom/Mobile & Wireless/Mobile & Wireless Accessories,29
+333,/Business & Industrial/Business Services/Fire & Security Services,2
+334,/Games/Word Games,3
+335,/Travel/Tourist Destinations/Regional Parks & Gardens,30
+336,/Reference/Language Resources,60
+337,/Online Communities/Online Goodies,15
+338,/Business & Industrial/Advertising & Marketing/Public Relations,2
+339,/Books & Literature/Writers Resources,18
+340,/Sports/Animal Sports,73
+341,/Home & Garden/Home Improvement/Plumbing,2
+342,/Beauty & Fitness/Spas & Beauty Services,2
+343,/Business & Industrial/Pharmaceuticals & Biotech,111
+344,/Arts & Entertainment/Comics & Animation/Cartoons,59
+345,/Health/Medical Devices & Equipment,19
+346,/Law & Government/Legal/Legal Services,46
+347,/Home & Garden/HVAC & Climate Control,19
+348,/Sports/Fantasy Sports,47
+349,/Internet & Telecom/Service Providers/Cable & Satellite Providers,94
+350,/Shopping/Apparel/Eyewear,24
+351,/Business & Industrial/Business Operations/Management,21
+352,/Health/Pharmacy/Drugs & Medications,86
+353,/People & Society/Social Sciences,100
+354,/Hobbies & Leisure/Outdoors/Hiking & Camping,10
+355,/Jobs & Education/Jobs/Job Listings,99
+356,/Reference/Geographic Reference/Maps,72
+357,/Autos & Vehicles/Vehicle Shopping,60
+358,/Beauty & Fitness,112
+359,/Computers & Electronics/Computer Hardware/Desktop Computers,79
+360,/Arts & Entertainment/Events & Listings/Concerts & Music Festivals,52
+361,/People & Society/Kids & Teens/Children's Interests,122
+362,/Games/Computer & Video Games/Strategy Games,61
+363,/Sports/Extreme Sports,55
+364,/Internet & Telecom/Email & Messaging,250
+365,/Finance/Credit & Lending/Credit Reporting & Monitoring,3
+366,/Arts & Entertainment/Music & Audio/Religious Music,2
+367,/Pets & Animals/Pets/Rabbits & Rodents,4
+368,/Computers & Electronics/CAD & CAM,5
+369,/Home & Garden/Kitchen & Dining,16
+370,/Business & Industrial/Transportation & Logistics,282
+371,/Online Communities/Online Goodies/Clip Art & Animated GIFs,18
+372,/Hobbies & Leisure/Merit Prizes & Contests,76
+373,/Autos & Vehicles/Motor Vehicles (By Type)/Trucks & SUVs,24
+374,/Health/Mental Health/Anxiety & Stress,22
+375,/Health/Oral & Dental Care,27
+376,/Reference/General Reference,16
+377,/Computers & Electronics/Software,1113
+378,/Business & Industrial/Energy & Utilities/Renewable & Alternative Energy,181
+379,/Health/Mental Health/Depression,28
+380,/Computers & Electronics/Software/Software Utilities,5
+381,/Food & Drink/Restaurants/Pizzerias,11
+382,/Books & Literature,664
+383,/Hobbies & Leisure/Water Activities/Boating,57
+384,/Shopping/Consumer Resources/Product Reviews & Price Comparisons,5
+385,/Real Estate,185
+386,/Business & Industrial/Business Finance,87
+387,/News/Gossip & Tabloid News/Scandals & Investigations,5
+388,/Autos & Vehicles/Campers & RVs,1
+389,/Science/Astronomy,2044
+390,/Sports/Water Sports,25
+391,/Law & Government/Legal/Legal Education,15
+392,/Games/Computer & Video Games/Fighting Games,30
+393,/Sports/Individual Sports/Cycling,192
+394,/Hobbies & Leisure/Water Activities/Surf & Swim,73
+395,/Autos & Vehicles/Motor Vehicles (By Type)/Motorcycles,21
+396,/Hobbies & Leisure/Clubs & Organizations,4
+397,/Shopping/Apparel/Swimwear,3
+398,/Shopping/Consumer Resources/Coupons & Discount Offers,3
+399,/Hobbies & Leisure/Clubs & Organizations/Youth Organizations & Resources,8
+400,/Arts & Entertainment/Humor/Funny Pictures & Videos,9
+401,/News/Sports News,4150
+402,/News/Business News,1730
+403,/Business & Industrial/Business Finance/Venture Capital,70
+404,/Hobbies & Leisure/Special Occasions/Weddings,45
+405,/Games/Board Games,7
+406,/Travel/Tourist Destinations/Mountain & Ski Resorts,6
+407,/Shopping/Consumer Resources,40
+408,/Food & Drink/Food & Grocery Retailers,89
+409,/Computers & Electronics/Electronics & Electrical/Power Supplies,20
+410,/Health/Health Conditions/Ear Nose & Throat,10
+411,/Food & Drink/Food/Grains & Pasta,1
+412,/Health/Nutrition,64
+413,/Travel/Hotels & Accommodations/Vacation Rentals & Short-Term Stays,12
+414,/Jobs & Education/Education/Homeschooling,1
+415,/Arts & Entertainment/Visual Art & Design/Art Museums & Galleries,49
+416,/Pets & Animals/Animal Products & Services/Pet Food & Supplies,11
+417,/Games/Computer & Video Games/Driving & Racing Games,28
+418,/Arts & Entertainment/Music & Audio/Music Equipment & Technology,39
+419,/Health/Health Conditions/Pain Management,13
+420,/Autos & Vehicles,851
+421,/Hobbies & Leisure/Crafts,29
+422,/Food & Drink/Food/Snack Foods,5
+423,/Arts & Entertainment/Performing Arts/Circus,1
+424,/People & Society/Social Issues & Advocacy/Green Living & Environmental Issues,598
+425,/Health/Substance Abuse,52
+426,/Hobbies & Leisure/Special Occasions,28
+427,/Reference/Language Resources/Foreign Language Resources,11
+428,/Law & Government/Public Safety/Crime & Justice,2504
+429,/Business & Industrial/Transportation & Logistics/Maritime Transport,48
+430,/Computers & Electronics/Consumer Electronics/TV & Video Equipment,124
+431,/Computers & Electronics/Computer Security/Hacking & Cracking,261
+432,/Finance/Investing,476
+433,/Games,160
+434,/Health/Public Health,354
+435,/Arts & Entertainment/Music & Audio/Music Reference,10
+436,/Online Communities/Online Goodies/Social Network Apps & Add-Ons,1
+437,"""/Arts & Entertainment/Events & Listings/Bars",18
+438,/Business & Industrial/Agriculture & Forestry/Agricultural Equipment,1
+439,/News,7529
+440,/Food & Drink/Cooking & Recipes/Soups & Stews,5
+441,/Computers & Electronics/Programming/Java (Programming Language),4
+442,/People & Society/Family & Relationships/Troubled Relationships,46
+443,/Shopping/Apparel/Costumes,11
+444,/Arts & Entertainment/Comics & Animation,164
+445,/Computers & Electronics/Computer Hardware/Computer Drives & Storage,123
+446,/Beauty & Fitness/Face & Body Care/Skin & Nail Care,11
+447,/Home & Garden/Home Improvement/Flooring,1
+448,/News/Politics,7461
+449,/People & Society/Social Issues & Advocacy/Charity & Philanthropy,104
+450,/Shopping/Antiques & Collectibles,12
+451,/Business & Industrial/Retail Trade,1
+452,/Computers & Electronics/Networking/Network Monitoring & Management,3
+453,/Arts & Entertainment/Music & Audio/Rock Music,361
+454,/Arts & Entertainment/Music & Audio/Country Music,74
+455,/Arts & Entertainment/Comics & Animation/Anime & Manga,7
+456,/Law & Government/Public Safety,1371
+457,/Travel/Tourist Destinations/Theme Parks,92
+458,/Games/Computer & Video Games/Simulation Games,11
+459,/Finance/Investing/Commodities & Futures Trading,22
+460,/Arts & Entertainment/Events & Listings/Expos & Conventions,49
+461,/Health/Health Conditions/Obesity,26
+462,/Games/Arcade & Coin-Op Games,1
+463,/Pets & Animals/Pets/Reptiles & Amphibians,44
+464,/Sports/Motor Sports,243
+465,/Arts & Entertainment/Online Media/Online Image Galleries,147
+466,/Food & Drink/Cooking & Recipes,259
+467,/Real Estate/Real Estate Listings/Commercial Properties,8
+468,/Beauty & Fitness/Face & Body Care/Hygiene & Toiletries,12
+469,/Computers & Electronics,2575
+470,/News/Weather,378
+471,/Games/Computer & Video Games/Music & Dance Games,16
+472,/Law & Government/Legal,1571
+473,/Hobbies & Leisure/Outdoors/Fishing,14
+474,/Sports/Individual Sports/Skate Sports,20
+475,/Arts & Entertainment/Events & Listings/Movie Listings & Theater Showtimes,6
+476,/Business & Industrial/Industrial Materials & Equipment,5
+477,/Business & Industrial/Hospitality Industry,15
+478,/Shopping,307
+479,/Autos & Vehicles/Vehicle Codes & Driving Laws/Vehicle Licensing & Registration,15
+480,/People & Society/Social Sciences/Political Science,489
+481,/Home & Garden/Home Furnishings/Rugs & Carpets,1
+482,/People & Society/Kids & Teens,4
+483,/Finance,483
+484,/Reference,406
+485,/Beauty & Fitness/Cosmetic Procedures/Cosmetic Surgery,15
+486,/Travel/Specialty Travel,4
+487,/Sports/Team Sports/American Football,944
+488,/Science/Chemistry,103
+489,/Autos & Vehicles/Motor Vehicles (By Type)/Hybrid & Alternative Vehicles,255
+490,/Home & Garden,257
+491,/Science/Scientific Institutions,102
+492,/Beauty & Fitness/Cosmetic Procedures,5
+493,/Health/Health Conditions,414
+494,/Arts & Entertainment/TV & Video,493
+495,/Business & Industrial/Industrial Materials & Equipment/Heavy Machinery,1
+496,/Sports/Team Sports/Basketball,579
+497,/Beauty & Fitness/Fashion & Style,135
+498,/Games/Computer & Video Games/Sports Games,29
+499,/Finance/Accounting & Auditing/Billing & Invoicing,1
+500,/Autos & Vehicles/Vehicle Shows,4
+501,/Autos & Vehicles/Commercial Vehicles/Cargo Trucks & Trailers,6
+502,/Home & Garden/Home & Interior Decor,10
+503,/Food & Drink/Food/Breakfast Foods,3
+504,/Health/Nutrition/Special & Restricted Diets,17
+505,/Sports/Team Sports/Baseball,860
+506,/Arts & Entertainment/Music & Audio/World Music,23
+507,/Beauty & Fitness/Face & Body Care/Unwanted Body & Facial Hair Removal,5
+508,/Shopping/Toys/Dolls & Accessories,2
+509,/Beauty & Fitness/Fashion & Style/Fashion Designers & Collections,38
+510,/Pets & Animals/Pets/Dogs,153
+511,/Arts & Entertainment/Fun & Trivia/Fun Tests & Silly Surveys,2
+512,/Arts & Entertainment/Entertainment Industry,35
+513,/Home & Garden/Home Furnishings/Kitchen & Dining Furniture,1
+514,/Business & Industrial/Printing & Publishing,89
+515,/Shopping/Toys/Building Toys,35
+516,/Health/Medical Facilities & Services/Medical Procedures,150
+517,/Business & Industrial/Agriculture & Forestry/Livestock,29
+518,/Internet & Telecom/Web Services/Web Design & Development,4
+519,/Shopping/Photo & Video Services,5
+520,/Autos & Vehicles/Motor Vehicles (By Type)/Off-Road Vehicles,2
+521,/Computers & Electronics/Networking/Data Formats & Protocols,10
+522,/Arts & Entertainment/Fun & Trivia,14
+523,/Food & Drink/Restaurants/Restaurant Reviews & Reservations,4
+524,/Sports/Individual Sports,144
+525,/Business & Industrial/Business Operations,141
+526,/Autos & Vehicles/Motor Vehicles (By Type),192
+527,/Finance/Accounting & Auditing,96
+528,/Business & Industrial/Transportation & Logistics/Urban Transport,36
+529,/Hobbies & Leisure/Crafts/Fiber & Textile Arts,4
+530,/Reference/Directories & Listings,1
+531,/Computers & Electronics/Consumer Electronics/Game Systems & Consoles,480
+532,/Jobs & Education/Education/Primary & Secondary Schooling (K-12),201
+533,/Adult,44
+534,/Hobbies & Leisure/Outdoors,80
+535,/Travel/Tourist Destinations,348
+536,/Internet & Telecom/Email & Messaging/Voice & Video Chat,27
+537,/Sports/Combat Sports/Wrestling,67
+538,/Games/Roleplaying Games,197
+539,/Food & Drink/Food,179
+540,/Food & Drink/Beverages/Coffee & Tea,73
+541,/Beauty & Fitness/Hair Care,17
+542,/Health/Medical Facilities & Services/Physical Therapy,1
+543,/Arts & Entertainment/Music & Audio,1129
+544,/News/Health News,105
+545,/Arts & Entertainment/Music & Audio/Dance & Electronic Music,36
+546,/Business & Industrial/Business Services,241
+547,/Home & Garden/Yard & Patio/Lawn Mowers,1
+548,/Food & Drink/Restaurants/Fast Food,67
+549,/Autos & Vehicles/Classic Vehicles,11
+550,/Beauty & Fitness/Weight Loss,46
+551,/Computers & Electronics/Consumer Electronics/GPS & Navigation,22
+552,/Games/Table Games,3
+553,/Hobbies & Leisure/Water Activities,97
+554,/Science/Mathematics,41
+555,/News/Business News/Company News,610
+556,/Games/Card Games/Collectible Card Games,3
+557,/Business & Industrial/Chemicals Industry,76
+558,/Books & Literature/Literary Classics,101
+559,/Shopping/Consumer Resources/Consumer Advocacy & Protection,18
+560,"""/Online Communities/Online Goodies/Skins",4
+561,/Travel/Air Travel/Airport Parking & Transportation,1
+562,/Arts & Entertainment/Movies,2837
+563,/Online Communities/Virtual Worlds,46
+564,/Arts & Entertainment,3367
+565,/Sports/Team Sports/Soccer,1683
+566,/Business & Industrial/Energy & Utilities/Oil & Gas,298
+567,/Arts & Entertainment/Visual Art & Design/Painting,88
+568,/Computers & Electronics/Enterprise Technology,418
+569,/Reference/Geographic Reference,12
+570,/Reference/General Reference/Time & Calendars,14
+571,/Health/Health Conditions/AIDS & HIV,49
+572,/Finance/Investing/Currencies & Foreign Exchange,118
+573,/Health/Health Conditions/Respiratory Conditions,9
+574,/Online Communities/Photo & Video Sharing/Photo & Image Sharing,79
+575,/Home & Garden/Kitchen & Dining/Small Kitchen Appliances,17
+576,/People & Society/Social Sciences/Psychology,91
+577,/Jobs & Education,108
+578,/Health/Substance Abuse/Steroids & Performance-Enhancing Drugs,35
+579,/Games/Card Games/Poker & Casino Games,3
+580,/Law & Government/Government,5313
+581,/Real Estate/Real Estate Services,23
+582,/Arts & Entertainment/Humor/Political Humor,24
+583,/Shopping/Apparel,204
+584,/Business & Industrial/Transportation & Logistics/Rail Transport,107
