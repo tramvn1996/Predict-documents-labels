@@ -1,4 +1,4 @@
-# Big Data Final Project
+# Predict Documents Label Project
 
 1. I will use Google Natural Language API to classify text on the AI news data that Dr. Eckroth 
 	provided us for the CREU project. ---->  BDfinal.py
